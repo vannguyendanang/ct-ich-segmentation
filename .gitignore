@@ -1,0 +1,6 @@
+data/image/
+data/label/
+*.pth
+*.log
+__pycache__/
+*.pyc
